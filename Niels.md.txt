@@ -1,0 +1,3 @@
+CanSparkMax private CANSparkMax [motor name] = new CANSparkMax([motor port], MotorType.kBrushless);
+
+Falcon500 private WPI_TalonFX [motor name] = new WPI_TalonFX([motor port]);
